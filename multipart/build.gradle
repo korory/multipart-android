@@ -6,8 +6,8 @@ apply plugin: 'com.jfrog.bintray'
 version = "1.3.4"
 group = "com.bikomobile"
 
-def siteUrl = 'https://github.com/javierugarte/multipart-android'
-def gitUrl = 'https://github.com/javierugarte/multipart-android'
+def siteUrl = 'https://github.com/korory/multipart-android'
+def gitUrl = 'https://github.com/korory/multipart-android'
 
 android {
     compileSdkVersion 23
