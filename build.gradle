@@ -10,8 +10,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.0'
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7'
-        // Elimina el plugin android-maven ya que es obsoleto
-        // classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5' // Eliminar esta línea
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5' // Eliminar esta línea
     }
 }
 
